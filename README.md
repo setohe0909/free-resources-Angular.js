@@ -51,3 +51,13 @@ Modernízate con AngularJS</a>
      <a href="http://codepen.io/collection/aFsqL/">Angular.js Examples</a>
   </li>
 </ul>
+
+<h1>Books</h1>
+<ul>
+  <li type="square">
+    <a href="https://drive.google.com/file/d/0B9s46tz828svcmpieUNzSG1KQzA/view">Agile development with Angular.js</a>
+  </li>
+  <li type="square">
+    <a href="https://drive.google.com/folderview?id=0B_nkiJDe4JGZaVptRGRWMGNBRHc&usp=sharing">The complete book on Angular.js</a>
+  </li>
+</ul>
