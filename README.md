@@ -1,1 +1,1 @@
-# free-resources-Angular.js
+# Free Resources - Angular.js
