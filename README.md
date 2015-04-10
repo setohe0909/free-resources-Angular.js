@@ -1,6 +1,6 @@
 # Free Resources - Angular.js
 
-<h1>courses</h1>
+<h1>Courses</h1>
 <ul>
   <li type="square">
     <a href="http://www.codecademy.com/learn/learn-angularjs?utm_campaign=angularjs_blast_2015_04_07">Learn AngularJS</a>
