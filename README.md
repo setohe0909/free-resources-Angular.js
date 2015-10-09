@@ -6,6 +6,9 @@
     <a href="http://www.codecademy.com/learn/learn-angularjs?utm_campaign=angularjs_blast_2015_04_07">Learn AngularJS</a>
   </li>
   <li type="square">
+    <a href="http://www.infoworld.com/article/2950522/application-development/free-course-get-started-with-angularjs.html?phint=newt%3Didge_insider_newsletter&phint=idg_eid%3D4040cb9a790ab14f3439442b6eb35830#tk.IDGENTERPRISENLE_nlt_insider_2015-07-23">Get started with AngularJS</a>
+  </li>
+  <li type="square">
      <a href="https://www.codeschool.com/courses/shaping-up-with-angular-js">SHAPING UP WITH ANGULAR.JS</a>
   </li>
   <li type="square">
